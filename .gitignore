@@ -1,2 +1,3 @@
 .env
 curso_gemini2/
+__pycache__/
